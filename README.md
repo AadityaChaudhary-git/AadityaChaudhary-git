@@ -76,9 +76,9 @@ I’m a passionate Computer Science student focused on building real-world solut
 
 ## 📫 Connect With Me
 
-* 📧 Email: (your email here)
-* 💼 LinkedIn: (your link here)
-* 💻 GitHub: https://github.com/(your-username)
+* 📧 Email: aditya.879161@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/aaditya-chaudhary-3a322b329/
+* 💻 GitHub: https://github.com/AadityaChaudhary-git
 
 ---
 
