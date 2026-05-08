@@ -1,87 +1,203 @@
-# Hi there 👋 I'm Aditya Chaudhary
+<div align="center">
 
-✨ Welcome to my GitHub profile
+# 👋 Hi, I'm Aditya Chaudhary
 
----
+### 🚀 Data Analytics • Machine Learning • Full Stack Development
 
-## 🚀 About Me
+Passionate about building intelligent systems, solving real-world problems, and transforming raw data into meaningful insights.
 
-🎓 BCA Student @ Graphic Era University, Dehradun
-📊 CGPA: 7.52 (till 5th semester)
+<br>
 
-I’m a passionate Computer Science student focused on building real-world solutions using data and technology.
+![Profile Views](https://komarev.com/ghpvc/?username=AadityaChaudhary-git&color=blue&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AadityaChaudhary-git?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/AadityaChaudhary-git?style=for-the-badge)
 
-💡 I enjoy:
-
-* Turning raw & messy data into meaningful insights
-* Building scalable and efficient data-driven solutions
-* Solving real-world problems using AI & analytics
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Me
 
-### 💻 Programming
+🎓 BCA Student at Graphic Era Deemed to be University, Dehradun  
+📊 Current CGPA: **7.52**  
 
-* Java
-* C++
-* SQL
+I am passionate about:
+- Machine Learning
+- Data Analytics
+- AI-driven Applications
+- Full Stack Development
+- Productivity & Behavioral Analytics
 
-### 📊 Data & Analytics
+I enjoy building projects that combine:
+- Real-time systems
+- Data visualization
+- Intelligent prediction models
+- Scalable backend architectures
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Statistical Analysis
-
-### ☁️ Tools & Technologies
-
-* Git & GitHub
-* Excel / Google Sheets
-* Weka (Machine Learning)
-
-### 🗄️ Databases
-
-* MySQL
-* MongoDB
+Currently focused on:
+- Machine Learning Engineering
+- Data Analytics
+- Flask & Python backend systems
+- AI productivity tools
 
 ---
 
-## 📜 Certifications
+# 🧠 Technical Skills
 
-### 🎓 Google Data Analytics Professional Certificate
+## 💻 Programming Languages
 
-* Foundations: Data, Data, Data Everywhere
-* Ask Questions to Make Data-Driven Decisions
-* Prepare Data for Exploration
-* Process Data from Dirty to Clean
-* Analyze Data to Answer Questions
-* Share Data Through Visualization
-* Data Analysis with R Programming
-
-### 📌 Additional
-
-* MongoDB: The Complete Guide to NoSQL Database Development
+- Python
+- Java
+- C++
+- SQL
+- JavaScript
 
 ---
 
-## 📈 What I Bring
+## 📊 Data Analytics & Machine Learning
 
-✔ Strong understanding of data lifecycle
-✔ Ability to work with structured & unstructured data
-✔ Problem-solving mindset with analytical thinking
-✔ Continuous learner with growth mindset
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Feature Engineering
+- Data Visualization
+- Machine Learning Fundamentals
+- Predictive Analytics
+
+### ML Libraries & Tools
+- Scikit-learn
+- Pandas
+- NumPy
+- Weka
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Web Development
 
-* 📧 Email: aditya.879161@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/aaditya-chaudhary-3a322b329/
-* 💻 GitHub: https://github.com/AadityaChaudhary-git
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+
+### Backend
+- Flask
+- REST APIs
+- Firebase Authentication
 
 ---
 
-## ✨ Motto
+## 🗄️ Databases
 
-**"Turning data into decisions, and ideas into impact."**
+- MySQL
+- SQLite
+- MongoDB
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Git & GitHub
+- VS Code
+- Firebase
+- Excel
+- Google Sheets
+
+---
+
+# 📌 Featured Project
+
+## 🧠 NuroTrack — AI Productivity Monitoring System
+
+An AI-powered productivity monitoring platform using Machine Learning and real-time analytics.
+
+### 🔥 Features
+- Real-time desktop activity tracking
+- ML-based productivity prediction
+- Interactive analytics dashboard
+- Productivity scoring (NuroScore)
+- Firebase Authentication
+- Daily reports & insights
+
+### 🛠️ Tech Stack
+Python • Flask • SQLite • Firebase • Chart.js • Scikit-learn
+
+🔗 Project Link:  
+https://github.com/AadityaChaudhary-git/NuroTrack
+
+---
+
+# 📜 Certifications
+
+## 🎓 Google Data Analytics Professional Certificate
+
+Completed certifications in:
+- Foundations: Data, Data, Data Everywhere
+- Ask Questions to Make Data-Driven Decisions
+- Prepare Data for Exploration
+- Process Data from Dirty to Clean
+- Analyze Data to Answer Questions
+- Share Data Through Visualization
+- Data Analysis with R Programming
+
+---
+
+## 📌 Additional Certifications
+
+- MongoDB: The Complete Guide to NoSQL Database Development
+
+---
+
+# 📈 What I Bring
+
+✔ Strong analytical and problem-solving skills  
+✔ Ability to work with structured & unstructured data  
+✔ Real-world project development experience  
+✔ Knowledge of Machine Learning workflows  
+✔ Backend + Frontend integration skills  
+✔ Continuous learner with growth mindset  
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AadityaChaudhary-git&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaChaudhary-git&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:  
+aditya.879161@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/aaditya-chaudhary-3a322b329/
+
+💻 GitHub:  
+https://github.com/AadityaChaudhary-git
+
+---
+
+# ✨ Motto
+
+> “Turning data into decisions, and ideas into impact.”
+
+---
+
+# 🚀 Currently Learning
+
+- Advanced Machine Learning
+- Backend System Design
+- Data Engineering
+- AI-driven Productivity Systems
+- Cloud Deployment
+
+---
+
+# ⭐ Thanks for visiting my profile!
