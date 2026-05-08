@@ -127,37 +127,7 @@ https://github.com/AadityaChaudhary-git/NuroTrack
 
 ---
 
-# 📜 Certifications
 
-## 🎓 Google Data Analytics Professional Certificate
-
-Completed certifications in:
-- Foundations: Data, Data, Data Everywhere
-- Ask Questions to Make Data-Driven Decisions
-- Prepare Data for Exploration
-- Process Data from Dirty to Clean
-- Analyze Data to Answer Questions
-- Share Data Through Visualization
-- Data Analysis with R Programming
-
----
-
-## 📌 Additional Certifications
-
-- MongoDB: The Complete Guide to NoSQL Database Development
-
----
-
-# 📈 What I Bring
-
-✔ Strong analytical and problem-solving skills  
-✔ Ability to work with structured & unstructured data  
-✔ Real-world project development experience  
-✔ Knowledge of Machine Learning workflows  
-✔ Backend + Frontend integration skills  
-✔ Continuous learner with growth mindset  
-
----
 
 # 📊 GitHub Stats
 
