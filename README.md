@@ -306,19 +306,6 @@ Python DSA and MySQL
 
 <br/>
 
-<!-- ═══════════ GITHUB ANALYTICS ═══════════ -->
-
-<h2 align="center" style="color:#F59E0B;">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AadityaChaudhary-git&show_icons=true&theme=default&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaChaudhary-git&layout=compact&hide_border=true" height="165" />
-
-</div>
-
-<br/>
 
 <!-- ═══════════ CURRENTLY LEARNING ═══════════ -->
 
