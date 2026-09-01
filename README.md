@@ -312,17 +312,9 @@ Python DSA and MySQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadityaChaudhary-git&show_icons=true&hide_border=true&bg_color=FFF8E8&title_color=F59E0B&icon_color=F59E0B&text_color=4E342E&border_radius=20" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AadityaChaudhary-git&show_icons=true&theme=default&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaChaudhary-git&layout=compact&hide_border=true&bg_color=FFF8E8&title_color=F59E0B&text_color=4E342E&border_radius=20" height="165" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaChaudhary-git&bg_color=FFF8E8&color=4E342E&line=F59E0B&point=F59E0B&area=true&hide_border=true&radius=16" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaChaudhary-git&layout=compact&hide_border=true" height="165" />
 
 </div>
 
