@@ -320,12 +320,6 @@ Python DSA and MySQL
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
-
-<br/>
-
 <!-- ═══════════ CURRENTLY LEARNING ═══════════ -->
 
 <h2 align="center" style="color:#F59E0B;">📚 Currently Learning</h2>
