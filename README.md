@@ -55,7 +55,7 @@
 📚 Currently in 1st Semester · 2026–2028<br/>
 📊 BCA CGPA: <strong>7.6/10</strong><br/>
 💡 Focused on <strong>Data Analytics, Machine Learning & Python</strong><br/>
-💻 60+ LeetCode Problems Solved<br/>
+💻 200+ LeetCode Problems Solved<br/>
 🚀 Building practical projects with data, Python and ML
 
 </p>
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<table style="width:90%; max-width:900px; margin:0 auto; border-spacing:20px;">
+<table style="width:90%; max-width:1100px; margin:0 auto; border-spacing:20px;">
 
 <tr>
 
@@ -214,6 +214,62 @@ View Project →
 
 <td bgcolor="#FFF8E8" style="padding:24px; vertical-align:top;">
 
+<h3>🛡️ CyberShield Threat Detection</h3>
+
+<p>
+A Machine Learning-based network threat detection and security analytics system.
+</p>
+
+<p>
+• Network activity analysis<br/>
+• Suspicious activity detection<br/>
+• ML-based threat classification<br/>
+• Risk score generation<br/>
+• Flask web application
+</p>
+
+<strong>Tech:</strong> Python · SQL · Scikit-learn · Flask
+
+<br/><br/>
+
+<a href="https://github.com/AadityaChaudhary-git/CyberShield-Threat-Detection">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td bgcolor="#FFF8E8" style="padding:24px; vertical-align:top;">
+
+<h3>📊 Telecom Customer Churn Analysis</h3>
+
+<p>
+A data analytics and Machine Learning project for analyzing customer churn in the telecom industry.
+</p>
+
+<p>
+• Exploratory Data Analysis<br/>
+• Customer churn analysis<br/>
+• SQL-based analysis<br/>
+• Multiple ML classification models<br/>
+• Customer retention insights
+</p>
+
+<strong>Tech:</strong> Python · SQL · Pandas · Scikit-learn · Matplotlib
+
+<br/><br/>
+
+<a href="https://github.com/AadityaChaudhary-git/Telecom-Customer-Churn-Analysis">
+View Project →
+</a>
+
+</td>
+
+<td bgcolor="#FFF8E8" style="padding:24px; vertical-align:top;">
+
 <h3>💻 LeetCode</h3>
 
 <p>
@@ -221,7 +277,7 @@ My collection of solved LeetCode problems covering DSA and SQL.
 </p>
 
 <p>
-• 60+ problems solved<br/>
+• 200+ problems solved<br/>
 • Python DSA solutions<br/>
 • MySQL solutions<br/>
 • Organized by language
@@ -280,7 +336,8 @@ Completed practical tasks in data analysis and forensic technology.
 <tr>
 <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
 
-🏅 <strong>3rd Position — 1st Uttarakhand State Shooting Ball Championship 2022</strong>
+💻 <strong>200+ LeetCode Problems Solved</strong><br/>
+Python DSA and MySQL
 
 </td>
 </tr>
@@ -288,8 +345,7 @@ Completed practical tasks in data analysis and forensic technology.
 <tr>
 <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
 
-💻 <strong>60+ LeetCode Problems Solved</strong><br/>
-Python DSA and MySQL
+🏅 <strong>3rd Position — 1st Uttarakhand State Shooting Ball Championship 2022</strong>
 
 </td>
 </tr>
