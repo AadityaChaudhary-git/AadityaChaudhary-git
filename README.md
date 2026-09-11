@@ -318,7 +318,25 @@ View Repository →
 <tr>
 <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
 
-📊 <strong>Deloitte Data Analytics Job Simulation</strong><br/>
+📊 <strong>Data Analysis with Python — IBM / Cognitive Class</strong><br/>
+Successfully completed and received a passing grade in Data Analysis with Python · September 2026
+
+</td>
+</tr>
+
+<tr>
+<td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
+
+🗄️ <strong>SQL and Relational Databases 101 — IBM Skills Network / Cognitive Class</strong><br/>
+Successfully completed and received a passing grade in SQL and Relational Databases 101 · September 2026
+
+</td>
+</tr>
+
+<tr>
+<td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
+
+💼 <strong>Deloitte Data Analytics Job Simulation</strong><br/>
 Completed practical tasks in data analysis and forensic technology.
 
 </td>
@@ -329,23 +347,6 @@ Completed practical tasks in data analysis and forensic technology.
 
 🎓 <strong>NPTEL Elite — Human Computer Interaction</strong><br/>
 95% consolidated score · Jan–Apr 2026
-
-</td>
-</tr>
-
-<tr>
-<td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
-
-💻 <strong>200+ LeetCode Problems Solved</strong><br/>
-Python DSA and MySQL
-
-</td>
-</tr>
-
-<tr>
-<td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
-
-🏅 <strong>3rd Position — 1st Uttarakhand State Shooting Ball Championship 2022</strong>
 
 </td>
 </tr>
